@@ -64,3 +64,10 @@ Xi representa os nós da árvore, na ordem especificada (em ordem, pré-ordem ou
 A saída deve começar com [ e finalizar com ].
 
 Cada nó deve ser separado por uma vírgula.
+
+
+Requisitos:
+
+- Certifique-se de ter o Python instalado em sua máquina. Caso não tenha, você pode baixá-lo em python.org.
+- Clone este repositório em sua máquina local usando o seguinte comando: git clone 
+- Execute 
